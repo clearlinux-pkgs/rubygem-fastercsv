@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-05-06 18:22:16.308113
+# {'~>1.5'}
+watchurl=https://rubygems.org/gems/fastercsv/versions/([0-1]\.[0-9]{1,2}(?:\.[0-9a-zA-Z]+)*)
